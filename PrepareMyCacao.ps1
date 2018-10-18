@@ -58,7 +58,7 @@ $applicationList = @(
 	#"Microsoft.Print3D"
 	#"*Autodesk*"
 	"*BubbleWitch*"
-            "king.com*"
+        "king.com*"
 	#"*Plex*"
 );
 
@@ -113,6 +113,8 @@ $Packages = 'git',`
             #'rufus',`
             'openvpn',`
             'dropbox',`
+	    'kdiff3',`
+	    # 'semanticmerge',` not up to date
             'ozcode-vs2017',`
             'resharper-ultimate-all /NoCpp'
 
