@@ -114,6 +114,7 @@ $Packages = 'git',`
             'openvpn',`
             'dropbox',`
 	    'kdiff3',`
+	    'kindle',`
 	    # 'semanticmerge',` not up to date
             'ozcode-vs2017',`
             'resharper-ultimate-all /NoCpp'
