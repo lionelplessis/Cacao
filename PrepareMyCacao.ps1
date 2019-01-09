@@ -89,9 +89,10 @@ choco install -y visualstudio2017-workload-netweb
 
 #--- Define Packages to Install ---
 $Packages = 'git',`
-            #'poshgit',`
+            'poshgit',`
             'visualstudiocode',`
             'notepadplusplus',`
+	    'intellijidea-community',`
             'nodejs',`
             'FiraCode',`
             'SourceTree',`
